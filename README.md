@@ -6,6 +6,10 @@
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![LCD](https://img.shields.io/badge/Display-16x2%20LCD-blue?style=flat)
 
+
+
+
+
 ---
 
 ## What It Does
@@ -120,3 +124,7 @@ byte smiley[8] = {
 ---
 
 *A small but satisfying hardware project — exploring custom LCD characters, animation timing, and PWM contrast control on Arduino.*
+
+
+Testing GitHub workflow
+

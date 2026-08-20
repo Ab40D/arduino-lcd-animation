@@ -8,7 +8,7 @@
 
 
 
-ty
+
 
 ---
 
@@ -124,3 +124,7 @@ byte smiley[8] = {
 ---
 
 *A small but satisfying hardware project — exploring custom LCD characters, animation timing, and PWM contrast control on Arduino.*
+
+
+Testing GitHub workflow
+
